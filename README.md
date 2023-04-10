@@ -1,4 +1,4 @@
-# rabbit-hole
+# Rabbit Hole
 
 ![GitHub Logo](img/cat.jpg)
 
