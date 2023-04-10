@@ -12,6 +12,8 @@ The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode cod
 
 [Download Preview](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/)
 
+[Download Preview msibundle](tools/Microsoft.WinDbg_1.2210.3001.msixbundle)
+
 ## Cheat sheet
 
 [windbg.info](http://windbg.info/doc/1-common-cmds.html)

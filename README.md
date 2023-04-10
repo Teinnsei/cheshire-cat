@@ -1,6 +1,8 @@
-# cheshire-cat
+# rabbit-hole
 
-## Debugers
+![GitHub Logo](img/cat.jpg)
+
+## Debuggers
 
 ### [WinDbg](windbg.MD)
 
